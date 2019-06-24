@@ -4,6 +4,4 @@ In this app, we are building a simple application that returns a List of Trendin
 
 # Screenshot
 
-<img src = "img.png" width="100" >
-
-![](img.png)
+<img src = "img.png" width="200" >
